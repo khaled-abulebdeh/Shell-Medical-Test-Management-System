@@ -13,9 +13,7 @@ It provides a simple and efficient way to **store, manage, retrieve, update, and
 | File | Description |
 |:-----|:------------|
 | `code.sh` | Main shell script implementing the Medical Test Management System functionalities. |
-| `MedicalRecord.txt` | Input/output file containing patient test records (must be prepared by the user). |
-| `MedicalTest.txt` | Input file containing information about available medical tests (must be prepared by the user). |
-| `Shell-Scripting-Project-Summer-2024.pdf` | Full project assignment description and requirements. |
+| `Project_Description.pdf` | Full project assignment description and requirements. |
 
 ---
 
